@@ -28,7 +28,7 @@ public class Gson {
 		String json = gson.toJson(p);
 		System.out.println(json);
 		scanner.close();
-
+/*hol*/
 	}
 
 }
